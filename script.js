@@ -1,6 +1,6 @@
 const translations = {
   es: {
-    nombre: "Joshua Brion",
+    nombre: "Ahmed Morales",
     perfil: "Estudiante IT • Front-End / Desarrollo Web",
     nav_proyectos: "Proyectos",
     nav_habilidades: "Habilidades",
@@ -35,7 +35,7 @@ const translations = {
     btn_email: "Enviar correo",
   },
   en: {
-    nombre: "Joshua Brion",
+    nombre: "Ahmed Morales",
     perfil: "IT Student • Front-End / Web Development",
     nav_proyectos: "Projects",
     nav_habilidades: "Skills",
